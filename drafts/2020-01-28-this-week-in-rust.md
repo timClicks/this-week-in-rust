@@ -16,7 +16,8 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 
 ## News & Blog Posts
 
-[Debug Rust+Mynewt Firmware for PineTime on Raspberry Pi](https://medium.com/@ly.lee/debug-rust-mynewt-firmware-for-pinetime-on-raspberry-pi-4b9ac2d093a9?source=friends_link&sk=edb508c31e43d3ec40ecd8554f3405f6).
+* [Debug Rust+Mynewt Firmware for PineTime on Raspberry Pi](https://medium.com/@ly.lee/debug-rust-mynewt-firmware-for-pinetime-on-raspberry-pi-4b9ac2d093a9?source=friends_link&sk=edb508c31e43d3ec40ecd8554f3405f6).
+* [Introduction to Rust (for people who have never used a compiler)](https://www.youtube.com/watch?v=jiBYfpf_M4c) [video]
 
 # Crate of the Week
 
