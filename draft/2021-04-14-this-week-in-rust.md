@@ -62,6 +62,7 @@ No papers/research projects this week.
 * [video] [Async/Await in Rust: Introduction](https://youtu.be/FNcXf-4CLH0)
 * [video] [OpenVehicleDiag Rust live coding with Macchina's A0!!](https://youtu.be/zjAe-uvKMJ4)
 * [video] [series] [Easy Rust - learn to program in Rust with simple English](https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk)
+* [video] [Understanding Rust lifetimes: a visual introduction](https://youtu.be/FSU9vZrn19w)
 
 ### Miscellaneous
 * [best-of-ml-rust: A ranked list of awesome machine learning Rust libraries](https://github.com/e-tony/best-of-ml-rust)
